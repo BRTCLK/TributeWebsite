@@ -29,4 +29,4 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 1. Bu repository'yi klonlayın:
    ```bash
-   git clone https://github.com/kullaniciAdi/dali-web-projesi.git
+   git clone https://github.com/BRTCLK/TributeWebSite.git
